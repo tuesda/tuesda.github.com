@@ -69,3 +69,12 @@ body {
 	color:#FFF;
 }
 	
+	
+/* Below is overwritten by zhanglei */
+body p {
+	font-size: 14px;
+	line-height: 1.6;
+}
+.cat-teacher {
+	width: 220px;
+}
