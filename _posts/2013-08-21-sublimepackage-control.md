@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "sublime安装package control"
-description: ""
-category: 
-tags: []
+description: "sublime plugin install"
+category: sublime 
+tags: [sublime,package install,]
 ---
 {% include JB/setup %}
 
