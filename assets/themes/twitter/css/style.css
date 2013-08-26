@@ -78,3 +78,6 @@ body p {
 .cat-teacher {
 	width: 220px;
 }
+code {
+		background-color: transparent;
+}
