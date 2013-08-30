@@ -23,14 +23,17 @@ group: navigation
 <img src="http://i786.photobucket.com/albums/yy146/zhanglei193/taylor_zps9f274a21.jpg?t=1377806701" style="width:200px; height:200px; border: solid; margin: 5px;" />
 
 
+
+##My Resume
+---  
+<a href="{{site.BASE_PATH}}/pages/resume.html">我的简历</a>
+
 ##Contact me##
 ---
 * [Twitter](https://twitter.com/zhanglei193/)  
 * [Github](https://github.com/tuesda/)
 * [Facebook](https://www.facebook.com/zhangleiapple/)
-* [weibo](http://http://weibo.com/u/1780456981/)
-  
+* [weibo](http://http://weibo.com/u/1780456981/)  
+
+![二维码](http://i786.photobucket.com/albums/yy146/zhanglei193/1636336_zps0650c1cd.png?t=1377842384)
    
-##My Resume
----  
-<a href="{{site.BASE_PATH}}/pages/resume.html">我的简历</a>
