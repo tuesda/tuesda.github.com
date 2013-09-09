@@ -29,7 +29,7 @@ group: navigation
 
   
 *  [我的简历]({{site.BASE_PATH}}/pages/resume.html)
-*  [我的简历（服务端工程师)](site.BASE_PATH}}/pages/resume-server-end.html)
+*  [我的简历（服务端工程师)]({{site.BASE_PATH}}/pages/resume-server-end.html)
 ##Contact me##
 ---
 * [Twitter](https://twitter.com/zhanglei193/)  
