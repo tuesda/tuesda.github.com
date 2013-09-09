@@ -27,6 +27,7 @@ group: navigation
 ##My Resume
 ---  
 <a href="{{site.BASE_PATH}}/pages/resume.html">我的简历</a>
+<a href="{{site.BASE_PATH}}/pages/resume-server-end.html">我的简历（服务端工程师）</a>
 
 ##Contact me##
 ---
