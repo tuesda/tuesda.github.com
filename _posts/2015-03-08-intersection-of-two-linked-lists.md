@@ -10,30 +10,30 @@ tags: [algorithm,java,oj]
 ####问题####
 
 题目链接见<https://oj.leetcode.com/problems/intersection-of-two-linked-lists/>   
-Write a program to find the node at which the intersection of two singly linked lists begins.
-```
-A:          a1 → a2
-                   ↘
-                     c1 → c2 → c3
-                   ↗            
-B:     b1 → b2 → b3
-```
+Write a program to find the node at which the intersection of two singly linked lists begins.   
+    
+    A:          a1 → a2  
+                       ↘      
+                        c1 → c2 → c3  
+                       ↗    
+    B:     b1 → b2 → b3    
+    
 
 如上，找出这两个链接的合并的地一个点c1    
 节点定义：
-```
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode(int x) {
- *         val = x;
- *         next = null;
- *     }
- * }
- */
- ```
+    
+    /**
+    * Definition for singly-linked list.
+    * public class ListNode {
+    *     int val;
+    *     ListNode next;
+    *     ListNode(int x) {
+    *         val = x;
+    *         next = null;
+    *     }
+    * }
+    */
+    
 
 ####最初的思路####
 
